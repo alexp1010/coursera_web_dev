@@ -1,0 +1,28 @@
+body {
+	
+	min-height: 1000px;
+}
+
+.navbar-collapse {
+	padding: 0px;
+}
+
+ul.nav {
+  margin: 0px;
+  background-color: grey;
+}
+
+ul.nav>li>p {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin: 0px;
+}
+
+ul.nav>li>hr {
+  margin: 0px;
+}
+
+.main-text {
+	background-color: grey;
+	padding: 20px;
+}
