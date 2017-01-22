@@ -1,29 +1,26 @@
-body {
-	
-	min-height: 1000px;
-}
-
 .navbar-collapse {
 	padding: 0px;
 }
 
 ul.nav {
   margin: 0px;
-  background-color: grey;
+  background-color: #729A9E;
 }
 
-ul.nav>li>p {
+.navbar-default .navbar-nav>li>a {
   padding-top: 5px;
   padding-bottom: 5px;
   margin: 0px;
+  color: black;
 }
 
 ul.nav>li>hr {
   margin: 0px;
+  border-top: 1px solid grey;
 }
 
 .column-content {
-	background-color: grey;
+	background-color: #729A9E;
 	padding: 5px 20px 5px 20px;
 	margin: 5px;
 }
