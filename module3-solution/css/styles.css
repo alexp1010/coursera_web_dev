@@ -1,10 +1,15 @@
 .navbar-collapse {
-	padding: 0px;
+  padding: 0px;
 }
 
 ul.nav {
   margin: 0px;
   background-color: #729A9E;
+}
+
+ul.nav>li>hr {
+  margin: 0px;
+  border-top: 1px solid grey;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -14,26 +19,21 @@ ul.nav {
   color: black;
 }
 
-ul.nav>li>hr {
-  margin: 0px;
-  border-top: 1px solid grey;
-}
-
 .column-content {
-	background-color: #729A9E;
-	padding: 5px 20px 5px 20px;
-	margin: 5px;
+  background-color: #729A9E;
+  padding: 5px 20px 5px 20px;
+  margin: 5px;
 }
 
 .column-content>p {
-	min-height: 1000px;
+  min-height: 1000px;
 }
 
 .column-header {
-	margin-top: 5px;
-	margin-bottom: 10px;
+  margin-top: 5px;
+  margin-bottom: 10px;
 }
 
 .back-to-top-link {
-	color: black;
+  color: black;
 }
