@@ -22,7 +22,20 @@ ul.nav>li>hr {
   margin: 0px;
 }
 
-.main-text {
+.column-content {
 	background-color: grey;
-	padding: 20px;
+	padding: 5px 20px 5px 20px;
+	margin: 5px;
+}
+
+.column-content>p {
+	min-height: 1000px;
+}
+
+.column-header {
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+
+.back-to-top-link {
 }
