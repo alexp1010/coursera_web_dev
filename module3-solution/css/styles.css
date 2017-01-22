@@ -1,3 +1,16 @@
+.navbar {
+  background-color: #729A9E;
+}
+
+.navbar-default .navbar-brand {
+  color: black;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: black;
+}
+
 .navbar-collapse {
   padding: 0px;
 }
