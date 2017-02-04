@@ -1,0 +1,11 @@
+.footer{
+  position: fixed;
+  bottom: 0;
+}
+
+.column-content{
+  background-color: #234b6e;
+  color: white;
+  margin: 0px;
+  padding: 0px;
+}
